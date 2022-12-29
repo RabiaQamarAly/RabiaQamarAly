@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RabiaQamarAly
-- 👀 I’m interested in Web Development  
+- 👀 I’m interested in Software Development  
 - 🌱 I’m currently learning ReactJs
 - 💞️ I’m looking to collaborate on React Js
 - 📫 How to reach me rabiqamar989@gmail.com
